@@ -86,5 +86,5 @@ npm start
 
 ---
 
-**Author**: Build for Learning & Resume  
+**Author**: rimi
 **Version**: 1.0.0
